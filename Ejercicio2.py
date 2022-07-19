@@ -12,6 +12,9 @@ for i in range(n_list):
         palabras.append(input("Escriba la palabra "+format(j+1)+": ", ))
     
     listas_palabras.append(palabras)
-    
+    print(" ")
+
+print("-----------------------------------------------------------------------")
+print(" ") 
 for i in range(n_list):
     print("La lista", i+1,"es :",listas_palabras[i])
