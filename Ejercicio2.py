@@ -1,4 +1,6 @@
 print("GENERADOR DE LISTAS")
+print("-----------------------------------------------------------------------")
+print(" ") 
 
 n_list=int(input("¿Cuantas listas quiere escribir? ", ))
 
