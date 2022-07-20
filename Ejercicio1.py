@@ -2,6 +2,7 @@ print("PROGRAMA PARA DIBUJAR TRIANGULOS NUMÉRICOS")
 print("")
 
 filas=int(input("ingresar el número de filas que desee : ", ))
+print("")
 
 def triangulo_numeros(filas):
     for n in range(filas):
